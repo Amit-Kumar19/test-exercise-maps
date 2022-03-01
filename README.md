@@ -11,7 +11,7 @@ Scripts reads the KML file passed as a command line argument and filters out the
 2. Create a Virtual enviroment (venv or conda) and activate it.
 
 3. Install the dependencies:
-    - `pip install requirements.txt`
+    - `pip install -r requirements.txt`
 
 4. Try it:
 
